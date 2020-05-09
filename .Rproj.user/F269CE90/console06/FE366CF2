@@ -1,0 +1,16 @@
+]0;~/Desktop/Intro to R/Needs to be linked[?1034hBens-MacBook-Pro:Needs to be linked benfisher$ [KBens-MacBook-Pro:Needs to be linked benfisher$ 
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ /Desktop/Intro to R/Needs to be Linked[K[K[K[K[K[Klinked
+bash: /Desktop/Intro: No such file or directory
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ cd [K[K[Kd ~/dir/name/of/path/to/file[1@c[Cd ~/dir/name/of/path/to/file[1P ~/dir/name/of/path/to/file[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pr/name/of/path/to/file[1Pr/name/of/path/to/fileDr/name/of/path/to/fileer/name/of/path/to/filesr/name/of/path/to/filekr/name/of/path/to/filetr/name/of/path/to/fileor/name/of/path/to/filepr/name/of/path/to/file[C[1Pr/name/of/path/to/file[C[CIname/of/path/to/file[Cname/of/path/to/filetname/of/path/to/filername/of/path/to/fileoname/of/path/to/file name/of/path/to/filetname/of/path/to/fileoname/of/path/to/file name/of/path/to/fileRname/of/path/to/file[C[C[C[C[1Pe/of/path/to/file[1Pe/of/path/to/file[1Pe/of/path/to/file[1Pe/of/path/to/file[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[KNeeds to Be[K[Kbe linked
+bash: cd: /Users/benfisher/Desktor/Intro: No such file or directory
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ cd[K[Kcd ~/Desktor/Intro to e/of/Needs to be linked[1@R[C[1P[1@R[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+bash: cd: /Users/benfisher/Desktor/Intro: No such file or directory
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ giti[Ki[K init
+Initialized empty Git repository in /Users/benfisher/Desktop/Intro to R/Needs to be linked/.git/
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ gitad[K[K add .
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git init
+Reinitialized existing Git repository in /Users/benfisher/Desktop/Intro to R/Needs to be linked/.git/
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git add .
