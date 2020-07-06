@@ -14,3 +14,22 @@ Maybe you wanted to say 'git add .'?
 ]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git init
 Reinitialized existing Git repository in /Users/benfisher/Desktop/Intro to R/Needs to be linked/.git/
 ]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git add .
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git commit -m "Initial commit"[1Pt"[1Pt"[1Pt"[1Pt"[1Pt"[1Pt"[1Pt"[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"L"i"n"k"i"n"g" "p"r"o"j"e"c"t" "t"h"a"t" "n"e"e"d"s" "t"o" "b"e" "l"i"n"k"e"d"[C
+[master (root-commit) 656faf8] Linking project that needs to be linked
+ 6 files changed, 94 insertions(+)
+ create mode 100644 .Rproj.user/F269CE90/console06/FE366CF2
+ create mode 100644 .Rproj.user/F269CE90/console06/FE366CF2.env
+ create mode 100644 .Rproj.user/F269CE90/console06/INDEX001
+ create mode 100644 .Rproj.user/F269CE90/sources/s-D78704C0/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 Needs to be linked.Rproj
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git remote add origin https://github.com/BFish99/Needs-to-be-linked.git
+]0;~/Desktop/Intro to R/Needs to be linkedBens-MacBook-Pro:Needs to be linked benfisher$ git push -u origin master
+Counting objects: 14, done.
+Delta compression using up to 4 threads.
+Compressing objects:  11% (1/9)   Compressing objects:  22% (2/9)   Compressing objects:  33% (3/9)   Compressing objects:  44% (4/9)   Compressing objects:  55% (5/9)   Compressing objects:  66% (6/9)   Compressing objects:  77% (7/9)   Compressing objects:  88% (8/9)   Compressing objects: 100% (9/9)   Compressing objects: 100% (9/9), done.
+Writing objects:   7% (1/14)   Writing objects:  14% (2/14)   Writing objects:  21% (3/14)   Writing objects:  28% (4/14)   Writing objects:  35% (5/14)   Writing objects:  42% (6/14)   Writing objects:  50% (7/14)   Writing objects:  57% (8/14)   Writing objects:  64% (9/14)   Writing objects:  71% (10/14)   Writing objects:  78% (11/14)   Writing objects:  85% (12/14)   Writing objects:  92% (13/14)   Writing objects: 100% (14/14)   Writing objects: 100% (14/14), 2.77 KiB | 2.77 MiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0)
+To https://github.com/BFish99/Needs-to-be-linked.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
